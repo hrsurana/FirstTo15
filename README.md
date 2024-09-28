@@ -59,14 +59,18 @@ Compiling the Code:
 Compile the code using a C compiler with the following command:
 
 sh
+
 Copy code
+
 gcc -o first_to_15_game first_to_15_game.c -lm
 
 Running the Game: 
 Run the compiled program:
 
 sh
+
 Copy code
+
 ./first_to_15_game
 
 **Credits**
